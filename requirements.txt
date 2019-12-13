@@ -1,0 +1,12 @@
+ipython==7.3.0
+jupyter==1.0.0
+matplotlib==3.0.3
+notebook==5.7.6
+numpy==1.16.2
+pandas==0.24.2
+python-dateutil==2.8.0
+pytz
+requests==2.22.0
+scikit-learn==0.20.3
+scikit-surprise==1.0.6
+scipy==1.2.1
