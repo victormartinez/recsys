@@ -2,7 +2,7 @@ ipython==7.3.0
 jupyter==1.0.0
 matplotlib==3.0.3
 notebook==5.7.6
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 python-dateutil==2.8.0
 pytz
